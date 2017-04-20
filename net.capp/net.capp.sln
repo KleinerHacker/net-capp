@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "net.capp", "net.capp\net.capp.csproj", "{364BB02D-5F20-4A51-A6C7-7191351853CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "net.capp.run", "net.capp.run\net.capp.run.csproj", "{6A4002E3-A7B7-450E-953F-979A58414EB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{364BB02D-5F20-4A51-A6C7-7191351853CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{364BB02D-5F20-4A51-A6C7-7191351853CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{364BB02D-5F20-4A51-A6C7-7191351853CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{364BB02D-5F20-4A51-A6C7-7191351853CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A4002E3-A7B7-450E-953F-979A58414EB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A4002E3-A7B7-450E-953F-979A58414EB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A4002E3-A7B7-450E-953F-979A58414EB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A4002E3-A7B7-450E-953F-979A58414EB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
